@@ -1,4 +1,4 @@
-# NLP
+# Sentiment analysis
 Sentiment analysis is a natural language processing (NLP) technique used to determine the sentiment or emotional tone expressed in a piece of text. It involves analyzing text data and classifying it into different sentiment categories, such as positive, negative, or neutral.
 
 Canvas Review dataset refers to a collection of reviews or feedback provided by users on the Canvas Learning Management System. These reviews can offer valuable insights into users' experiences with the platform, including their satisfaction, frustrations, and suggestions.
